@@ -16,9 +16,9 @@ http://localhost:4000
 
 
 TODO:
-We should add slideshare style slides and other marketing materials
-Write up the roadmap.
-Make sure HHS wants to be the "authoritative repo", otherwise we create our own
-We should do future work in the "authoritative repo"
-Write up all technical information from docs into site documentation
-Make this site, itself, available on github, so that anyone can update docs (with prose.io even)
+* We should add slideshare style slides and other marketing materials
+* Write up the roadmap.
+* Make sure HHS wants to be the "authoritative repo", otherwise we create our own
+* We should do future work in the "authoritative repo"
+* Write up all technical information from docs into site documentation
+* Make this site, itself, available on github, so that anyone can update docs (with prose.io even)
