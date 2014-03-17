@@ -1,0 +1,10 @@
+<div class="masthead">
+  <h3 class="text-muted">{{ site.name }}</h3>
+  <ul class="nav nav-justified">
+    {% for link in site.navigation %}
+      <li {% if page.url == link.url %}class="active"{% endif %}>
+        <a href="{{link.url}}" title="{{link.title}}" ><i class="{{link.icon}}"></i> {{link.text}}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

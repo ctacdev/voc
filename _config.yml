@@ -1,0 +1,29 @@
+name: VOC Marketing Site
+markdown: redcarpet
+pygments: true
+url: http://localhost:4000/
+navigation:
+- text: Home
+  icon: glyphicon glyphicon-home
+  title: Home Page
+  url: /index.html
+- text: Background
+  icon: glyphicon glyphicon-book
+  title: About Me
+  url: /background.html
+- text: Features
+  icon: glyphicon glyphicon-tasks
+  title: Features
+  url: /features.html
+- text: Technical
+  icon: glyphicon glyphicon-cog
+  title: Projects I've Worked On
+  url: /technical_details.html
+- text: Roadmap
+  icon: glyphicon glyphicon-road
+  title: Personal Blog
+  url: /road_map.html
+- text: Release&nbsp;Notes
+  icon: glyphicon glyphicon glyphicon-tasks
+  title: Personal Blog
+  url: /release_notes.html
