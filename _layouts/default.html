@@ -20,23 +20,8 @@
     <div class="container">
       {% include header.html %}
       {{ content }}
-      <!-- Site footer -->
-      <div class="footer row">
-        <div class="col-xs-12 col-md-6">
-          <ul>
-            <li>Put the github home here!</li>
-            <li>Put the github issue tracker here!</li>
-          </ul>
-        </div>
-        <div class="col-xs-12 col-md-6">
-          <ul>
-            <li>We'd put the main contributors here</li>
-            <li>We'd put the main contributors here</li>
-            <li>We'd put the main contributors here</li>
-            <li>We'd put the main contributors here</li>
-          </ul>
-        </div>
-      </div>
+      {% include footer.html %}
+      {% include javascript.html %}
     </div>
   </body>
 </html>

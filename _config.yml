@@ -1,4 +1,4 @@
-name: VOC Marketing Site
+name: "Voice of Consumer Open Source Home"
 markdown: redcarpet
 pygments: true
 url: http://localhost:4000/
@@ -7,10 +7,6 @@ navigation:
   icon: glyphicon glyphicon-home
   title: Home Page
   url: /index.html
-- text: Background
-  icon: glyphicon glyphicon-book
-  title: About Me
-  url: /background.html
 - text: Features
   icon: glyphicon glyphicon-tasks
   title: Features
@@ -21,9 +17,9 @@ navigation:
   url: /technical_details.html
 - text: Roadmap
   icon: glyphicon glyphicon-road
-  title: Personal Blog
+  title: History and Future of Application
   url: /road_map.html
-- text: Release&nbsp;Notes
-  icon: glyphicon glyphicon glyphicon-tasks
+- text: Releases
+  icon: glyphicon glyphicon-list-alt
   title: Personal Blog
   url: /release_notes.html

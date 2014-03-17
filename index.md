@@ -4,7 +4,7 @@ title: VOC Home Page
 ---
 <!-- Jumbotron -->
 <div class="jumbotron">
-  <h1>The Voice of the Consumer</h1>
+  <h1>Customer Feedback</h1>
   <p class="lead">Find out what your users think with an open source tool developed with open source technologies!</p>
   <p><a class="btn btn-lg btn-success" href="#" role="button">Get started today</a></p>
 </div>
@@ -22,8 +22,8 @@ title: VOC Home Page
     <p><a class="btn btn-primary" href="#" role="button">View details »</a></p>
  </div>
   <div class="col-md-4">
-    <h2>Anaylyze</h2>
-    <p>System supports application of rules on incoming surveys as well as indepth analysis of results.  Drill down to your users responses easily with this tool!</p>
+    <h2>Analyze</h2>
+    <p>Apply processing rules on incoming surveys and perform in-depth analysis of results.  Drill down to your users responses easily with this tool!</p>
     <p><a class="btn btn-primary" href="#" role="button">View details »</a></p>
   </div>
 </div>

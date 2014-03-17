@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: VOC Release Notes
 ---
 <div id="home">
   <h1>Blog Posts</h1>
