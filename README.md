@@ -16,7 +16,6 @@ http://localhost:4000
 
 
 TODO:
-
 * We should add slideshare style slides and other marketing materials
 * Write up the roadmap.
 * Make sure HHS wants to be the "authoritative repo", otherwise we create our own
