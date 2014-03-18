@@ -14,42 +14,42 @@
       <ul class="nav navbar-nav">
         <li {% if page.url == "/index.html" or page.url == "/" %}class="active"{%endif%}>
           <a href="/index.html" title="Home Page">
-            <i class="glyphicon glyphicon-home"></i> Home
+            <i class="fa fa-home"></i> Home
           </a>
         </li>
         <li {% if page.url == "/features.html" %}class="active"{%endif%}>
           <a href="/features.html" title="Features">
-            <i class="glyphicon glyphicon-tasks"></i> Features
+            <i class="fa fa-tasks"></i> Features
           </a>
         </li>
         <li {% if page.url == "/road_map.html" %}class="active"{%endif%}>
           <a href="/road_map.html" title="History and Future of Application">
-            <i class="glyphicon glyphicon-road"></i> Roadmap
+            <i class="fa fa-road"></i> Roadmap
           </a>
         </li>
-        <li {% if page.url == "/release_notes.html" %}class="active"{%endif%}>
-          <a href="/release_notes.html" title="Release Log">
-            <i class="glyphicon glyphicon-list-alt"></i> Releases
+        <li {% if page.url == "/blog.html" %}class="active"{%endif%}>
+          <a href="/blog.html" title="Release Log">
+            <i class="fa fa-list-alt"></i> Blog
           </a>
         </li>
         <li class="dropdown {% if page.url contains "documentation"%}active{%endif%}">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-            <i class="glyphicon glyphicon-file"></i> Docs <b class="caret"></b>
+            <i class="fa fa-info-circle"></i> Learn More<b class="caret"></b>
           </a>
           <ul class="dropdown-menu">
             <li {% if page.url == "/documentation/technical.html" %}class="active"{%endif%}>
               <a href="/documentation/technical.html" title="Technical Documentation">
-                <i class="glyphicon glyphicon-cog"></i> Technical Overview
+                <i class="fa fa-cogs"></i> Technical Overview
               </a>
             </li>
             <li {% if page.url == "/documentation/get_started.html" %}class="active"{%endif%}>
               <a href="/documentation/get_started.html" title="Get Started">
-                <i class="glyphicon glyphicon-play"></i> Get Started
+                <i class="fa fa-play"></i> Get Started
               </a>
             </li>
             <li {% if page.url == "/documentation/contribute.html" %}class="active"{%endif%}>
               <a href="/documentation/contribute.html" title="Get Started">
-                <i class="glyphicon glyphicon-info-sign"></i> Contribute
+                <i class="fa fa-users"></i> Contribute
               </a>
             </li>
           </ul>
