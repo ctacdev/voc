@@ -1,4 +1,4 @@
 name: "Voice of Consumer Open Source Home"
 markdown: redcarpet
 pygments: true
-url: http://localhost:4000/
+paginate: 10
